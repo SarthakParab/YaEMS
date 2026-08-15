@@ -1,4 +1,4 @@
-# YaEMS: Yet Another Employee Management System
+# YaEMS: Yet another Employee Management System
 
 A full-stack CRUD application for managing employee records, built with Spring Boot and Angular.
 
