@@ -34,7 +34,7 @@ A full-stack CRUD application for managing employee records, built with Spring B
 ## Project Structure
 
 ```
-YaEMS/
+ems/
 ├── backend/                  # Spring Boot application
 │   ├── src/main/java/com/ems/employeemanagement/
 │   │   ├── controller/       # REST endpoints
