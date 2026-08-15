@@ -1,4 +1,4 @@
-# YaEMS — Yet Another Employee Management System
+# YaEMS: Yet Another Employee Management System
 
 A full-stack CRUD application for managing employee records, built with Spring Boot and Angular.
 
@@ -136,5 +136,5 @@ Base URL: `http://localhost:8080/api`
 
 ## Notes
 
-- `application.properties` is tracked in git with a blank password field — fill it in locally before running.
+- `application.properties` is tracked in git with a blank password field. Fill it in locally before running.
 - `node_modules/` and `backend/target/` are excluded via `.gitignore`.
